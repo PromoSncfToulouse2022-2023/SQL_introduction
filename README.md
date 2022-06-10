@@ -17,7 +17,8 @@ INSERT INTO `users` (`firstname`, `lastname`, `age`) VALUES
   ('maria', 'mitchell', 70);
 ```
 
-A la suite, ecrivez des requetes SQL pour afficher :
+A la suite, ecrivez des requetes SQL (les requetes devront etre sauvegardée dans un fichier)
+pour afficher :
 
 * toutes les colonnes de la table users
 * tout les prenoms de la table users
